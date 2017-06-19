@@ -585,11 +585,14 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+			
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/Gvex95/Galaga",
+			"https://www.youtube.com/watch?v=coGELhR6J8g",
+			"https://github.com/Gvex95/Galaga/blob/master/battle_city_design/battle_city.bit",
+			"https://github.com/Gvex95/Galaga/blob/master/Galaga.docx"
 		),
 		false
 	),
